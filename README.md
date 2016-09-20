@@ -2,7 +2,7 @@
 ## Resume
 Fikirte Saketa 
 3508 s 180th st, seatac, WA 98188
-206-779-5649 | Fikirte56@yahoo.com
+**206-779-5649** | Fikirte56@yahoo.com
 
 Summary
 ------- 
