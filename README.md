@@ -6,24 +6,24 @@ Fikirte Saketa
 
 Summary
 ------- 
-Energetic, result-oriented and eager to learn. I want to escalate my IT knowledge through ADA and be able to contribute back to the community. My excellent organization, communication, and relationship building skills will help me be successful.
+Energetic, result-oriented and eager to learn. I want to escalate my IT knowledge through ADA and be able to contribute to the community. My excellent organization, communication, and leadership skills will help me be successful.
 
 ###Experience
 >##Firefly	car rental, Seatac, WA | Front desk representative, 09/2014- 09/2015
 +	Meeting and greeting customers. Answering all incoming calls and Assisting customers with rent.
-+	Order supplies and acted as a primary point if contact with vendors. General administration duties, photocopying, filing etc.
++	Order supplies and was primary point of contact with vendors. General administration duties, photocopying, filing etc.
 + Fleet system control including exchanging cars with sister rental companies.
 >##UW Medicine, Cardiology, Seattle, WA | Laboratory Assistance, 01/2014- 09/2014
 +	Writing reports, attending seminars 
 +	Ordering lab equipment
-+	Perform Cloning, PCR, western blotting, qPCR, qrPCR, cell culture.
++	Perform Cloning, PCR, Western Blotting, qPCR, qrPCR, Cell Culture.
 +	Isolating DNA/RNA from bacteria and different cells 
 +	Preparing and running gel
 +	Preparing media and petri dish with appropriate antibiotics to grow bacteria
 
 >##University of Washington, Bothell, WA | Grader and reader, 01/2014 – 06/2014
 +	Grading exams, quizzes and home works for General Biology and Chemistry
-+	Helping students at office hours
++	Helping students at office hours and mentoring 
 
 >##Baskin Robbins, Seattle, WA | Customer service and Casher, 06/2011– 05/2013
 +	Cashier, Taking orders 
@@ -46,7 +46,7 @@ Energetic, result-oriented and eager to learn. I want to escalate my IT knowledg
 
 
 ###Research Experience
->+	Worked with the Jaffe research group at University of Washington, Bothell
+>+	Worked with Dr.Jaffe research group at University of Washington, Bothell
 Co-Authored on a research paper with Nicole Wigder and Professor Dan Jaffe "Ozone and Particulate Matter Enhancements from Regional Wildfires Observed at Mount Bachelor during 2004-2011" on MBO fires from 2004-2011. 
 +	Collected and analyzed data using trajectories to track smoke pollution from wildfires.
 +	Responsible for learning and training laboratory personnel in use of Trajstat software. 
